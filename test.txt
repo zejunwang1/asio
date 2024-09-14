@@ -1,1 +1,1 @@
-This is a test for git learning.
+git pull test
